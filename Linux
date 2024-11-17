@@ -5,4 +5,5 @@ ls -sh
 cd
 cd ..
 cd file1
-
+touch fn
+mkdir dn
