@@ -7,3 +7,7 @@ cd ..
 cd file1
 touch fn
 mkdir dn
+date
+bc
+cat
+tac
