@@ -1,0 +1,8 @@
+ls
+ls -a
+ls -lt
+ls -sh
+cd
+cd ..
+cd file1
+
