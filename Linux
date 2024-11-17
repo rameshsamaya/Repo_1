@@ -13,3 +13,5 @@ cat
 tac
 chmod
 rvi
+sudo useradd
+
