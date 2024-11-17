@@ -11,3 +11,6 @@ date
 bc
 cat
 tac
+chmod
+rvi
+sudo useradd
