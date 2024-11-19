@@ -19,3 +19,4 @@ sudo groupadd
 sudo droupdel
 sudo systemctl status servicename
 sudo service servicename --status
+git clone --> To copy remote repo to local repo
