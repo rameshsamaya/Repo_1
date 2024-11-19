@@ -14,4 +14,6 @@ tac
 chmod
 rvi
 sudo useradd
-
+sudo passwd
+sudo groupadd
+sudo droupdel
